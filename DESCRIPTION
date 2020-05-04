@@ -1,0 +1,13 @@
+Package: arcadefont
+Type: Package
+Title: Raw Vector Data for Arcade Vector Font
+Version: 0.1.0
+Author: mikefc
+Maintainer: mikefc <mikefc@coolbutuseless.com>
+Description: Raw vector data for an arcade vector font.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.0
