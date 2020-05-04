@@ -52,8 +52,8 @@ The following output shows the data for the letter `A` contained in the
   - stroke - grouping variable for the points belonging to the same
     stroke. The letter ‘A’ is made of 2 strokes: 1. the frame of the A
     shape 2. the crossbar.
-  - x,y - coordinates of points which make up a stroke. Are point
-    coordinates are integer locations on a 9x9 grid.
+  - x,y - coordinates of points which make up a stroke. Coordinates are
+    integer locations on a 9x9 grid.
   - idx - ordering index of points within each stroke
 
 <!-- end list -->
