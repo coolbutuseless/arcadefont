@@ -151,17 +151,17 @@ text <- "
 
     flight instructions to red five
 
-  1.   your x-wing is equiped with an
+  1.   your x-wing is equipped with an
    invisible deflector shield that
    will protect you for 8 collisions.
 
   2.   deflector strength is lost when
-   a firevall impacts your shield or
-   what you strike a laser tower or
+   a fireball impacts your shield or
+   when you strike a laser tower or
    trench catwalk.
 
   3.   aim your lasers with cursor to
-   explode empire tie fighters laser
+   explode empire tie fighters, laser
    tower tops and trench turrets.
 
   4.   shoot fireballs before they

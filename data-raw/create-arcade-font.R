@@ -8,7 +8,7 @@ suppressPackageStartupMessages({
 # Each pair of digits describes a point i.e. "00" is the point (0, 0)
 # Points are separated by a space for readability
 # Strokes within a glyph are separaed by ":"
-# Font is defined on an 9x9 grid with x and y coords in the range [0,9]
+# Font is defined on an 9x9 grid with x and y coords in the range [0,8]
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 arcode_font_point_sets <- list(
   A   = "00 06 48 86 80 :  03 83",
